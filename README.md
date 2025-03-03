@@ -15,8 +15,18 @@
 文档打开密码为：`P@ssW0rd_119554488`，捐赠 `9.9+`（留邮箱与书名）可**去除密码**。
 
 # 3. 仓库地址
-
+## 3.1 本书地址
 + Github 仓库：[https://github.com/chenyz1984/LearningGoV2CN](https://github.com/chenyz1984/LearningGoV2CN)
+
+## 3.2 其他书籍
+
+译者翻译的其他书籍仓库地址：
+
++ 《流畅的Python-第2版》：[https://github.com/chenyz1984/FluentPython2ndCN](https://github.com/chenyz1984/FluentPython2ndCN)
++ 《Go Cookbook（中文版）》：[https://github.com/chenyz1984/GoCookbookCN](https://github.com/chenyz1984/GoCookbookCN)
++ 《学习Go语言-第2版》（进行中）：[https://github.com/chenyz1984/LearningGoV2CN](https://github.com/chenyz1984/LearningGoV2CN)
++ 《Oracle 23C 数据库概念手册}》：[https://github.com/chenyz1984/Oracle23cConceptsCN](https://github.com/chenyz1984/Oracle23cConceptsCN)
+
 
 # 4. 错误纠正
 
