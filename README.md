@@ -1,5 +1,6 @@
 # LearningGoV2CN
 《Learning Go, An Idiomatic Approach to Real-World Go Programming》（Jon Bodner著）,2024
+
 《学习 Go 语言-第2版》
 
 # 1. 翻译说明
