@@ -10,7 +10,7 @@
 
 英文书籍原名：《Learning Go, An Idiomatic Approach to Real-World Go Programming》（Jon Bodner著）,2024
 
-中文书籍译名：《学习 Go 语言-第2版》
+中文书籍译名：《Go 语言学习指南（第 2 版）》
 
 # 1. 翻译说明
 
