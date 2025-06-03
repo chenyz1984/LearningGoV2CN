@@ -1,3 +1,11 @@
+<!--
+ * @Author: ChenYingzi chenyingzi1984@outlook.com
+ * @Date: 2025-03-03 09:51:16
+ * @LastEditors: ChenYingzi chenyingzi1984@outlook.com
+ * @LastEditTime: 2025-06-03 16:27:06
+ * @FilePath: \LearningGoV2CN\README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 # LearningGoV2CN
 
 英文书籍原名：《Learning Go, An Idiomatic Approach to Real-World Go Programming》（Jon Bodner著）,2024
@@ -6,7 +14,7 @@
 
 # 1. 翻译说明
 
-《学习 Go 语言-第2版》—根据英文原版书籍《Learning Go, 2nd Ed》精心翻译，并做如下改进：
+《Go 语言学习指南（第 2 版）》—根据英文原版书籍《Learning Go, 2nd Ed》精心翻译，并做如下改进：
 1. 增加附录`术语表`，对一些术语做解释说明，并在正文中增加链接跳转。
 2. 对书中提到的参考资料（如官方文档、语言参考、其他书籍），增加了相应的超链接。
 3. 对一些个人认为较重要的知识点，做了特殊颜色（红、绿、蓝）标记。
@@ -28,7 +36,7 @@
 |--------|--------|--------|--------|
 |《流畅的Python-第2版》|《Fluent Python, 2nd Ed》|已完稿|[https://github.com/chenyz1984/FluentPython2ndCN](https://github.com/chenyz1984/FluentPython2ndCN)|
 |《Go Cookbook（中文版）》|《Go Cookbook》|已完稿|[https://github.com/chenyz1984/GoCookbookCN](https://github.com/chenyz1984/GoCookbookCN)|
-|《学习Go语言-第2版》|《Learning Go, 2nd Ed》|进行中|[https://github.com/chenyz1984/LearningGoV2CN](https://github.com/chenyz1984/LearningGoV2CN)|
+|《Go 语言学习指南（第 2 版）》|《Learning Go, 2nd Ed》|进行中|[https://github.com/chenyz1984/LearningGoV2CN](https://github.com/chenyz1984/LearningGoV2CN)|
 |《Oracle 23c 数据库概念手册》|《Oracle Database Concepts》|已完稿|[https://github.com/chenyz1984/OraConceptCN](https://github.com/chenyz1984/OraConceptCN)|
 
 
