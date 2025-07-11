@@ -2,7 +2,7 @@
  * @Author: ChenYingzi chenyingzi1984@outlook.com
  * @Date: 2025-03-03 09:51:16
  * @LastEditors: ChenYingzi chenyingzi1984@outlook.com
- * @LastEditTime: 2025-06-04 09:36:37
+ * @LastEditTime: 2025-07-11 09:09:49
  * @FilePath: \LearningGoV2CN\README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -22,7 +22,7 @@
 
 # 2. 文档密码
 
-文档打开密码为：`P@ssW0rd_119554488`，捐赠 `9.9+`（留邮箱与书名）可**去除密码、减少及淡化水印**。
+文档打开密码为：`P@ssW0rd_119554488`，捐赠 `12.9+`（留邮箱与书名）可**去除密码、减少及淡化水印**。
 
 # 3. 仓库地址
 ## 3.1 本书地址
