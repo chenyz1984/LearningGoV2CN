@@ -36,7 +36,7 @@
 |--------|--------|--------|--------|
 |《流畅的Python-第2版》|《Fluent Python, 2nd Ed》|已完稿|[https://github.com/chenyz1984/FluentPython2ndCN](https://github.com/chenyz1984/FluentPython2ndCN)|
 |《Go Cookbook（中文版）》|《Go Cookbook》|已完稿|[https://github.com/chenyz1984/GoCookbookCN](https://github.com/chenyz1984/GoCookbookCN)|
-|《Go 语言学习指南（第 2 版）》|《Learning Go, 2nd Ed》|进行中|[https://github.com/chenyz1984/LearningGoV2CN](https://github.com/chenyz1984/LearningGoV2CN)|
+|《Go 语言学习指南（第 2 版）》|《Learning Go, 2nd Ed》|已完稿|[https://github.com/chenyz1984/LearningGoV2CN](https://github.com/chenyz1984/LearningGoV2CN)|
 |《Oracle 23c 数据库概念手册》|《Oracle Database Concepts》|已完稿|[https://github.com/chenyz1984/OraConceptCN](https://github.com/chenyz1984/OraConceptCN)|
 
 
