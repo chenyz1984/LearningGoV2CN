@@ -1,6 +1,5 @@
 db:
   DB_HOST: 172.26.128.139
-  DB_PORT: 13308
   DB_USER: system
   DB_PASSWORD: system123
 
@@ -16,4 +15,4 @@ xlsx:
   HEADER_FILL: dae9f8
   DATA_EVEN_FILL: daf2d0
   AUTO_OPEN: true
-  AUTO_OPEN_SECS: 30
+  AUTO_OPEN_SECS: 40
